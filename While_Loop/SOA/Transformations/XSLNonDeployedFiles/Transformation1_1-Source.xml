@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Request xmlns="http://www.example.org">
+   <UserCounter>1</UserCounter>
+   <Name>Name2</Name>
+</Request>

@@ -1,0 +1,6 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<ns0:Response xmlns:plnk="http://docs.oasis-open.org/wsbpel/2.0/plnktype" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:client="http://xmlns.oracle.com/Application_particese/While_Loop/BPELProcess1" xmlns:ns0="http://www.example.org">
+   <ns0:occurs>
+      <ns0:Result>1Name2</ns0:Result>
+   </ns0:occurs>
+</ns0:Response>
